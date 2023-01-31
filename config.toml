@@ -15,15 +15,13 @@ disqusShortname = "yourdiscussshortname"
 [params]
   author = "Samir Goes"
   info = "Developer"
-  description = "John Doe's personal website"
+  description = "Samir Goes`s personal website"
   keywords = "blog,developer,personal"
-  avatarurl = "images/avatar.jpg"
+  avatarurl = "images/avatar.jpeg"
   #gravatar = "samir.goes@gmail.com"
 
   favicon_32 = "/img/favicon-32x32.png"
   favicon_16 = "/img/favicon-16x16.png"
-
-  since = 2010
 
   enableTwemoji = true
 
@@ -49,8 +47,13 @@ disqusShortname = "yourdiscussshortname"
 [[params.social]]
   name = "Twitter"
   icon = "fa fa-twitter fa-2x"
-  weight = 3
+  weight = 2
   url = "https://twitter.com/_SamirGoes/"
+[[params.social]]
+  name = "Linkedin"
+  icon = "fa fa-linkedin fa-2x"
+  weight = 3
+  url = "https://www.linkedin.com/in/samirgoes"
 
 # Menu links
 [[menu.main]]
